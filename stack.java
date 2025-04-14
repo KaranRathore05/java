@@ -1,4 +1,4 @@
-public class stack{
+public class stackcla{
     static class Node {
         int data;
         Node next;

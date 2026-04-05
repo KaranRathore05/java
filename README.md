@@ -3,7 +3,7 @@
 
 🚀 Welcome to my **100 Days of LeetCode** journey!
 
-Every day for the next 100 days, I'm solving one problem on LeetCode to sharpen my data structures and algorithms skills, improve consistency, and push myself to grow as a developer.
+Every day for the next 100 days, I'm solving one problem on LeetCode to sharpen my data structures and algorithm skills, improve consistency, and push myself to grow as a developer.
 
 ---
 
